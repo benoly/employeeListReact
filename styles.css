@@ -1,0 +1,25 @@
+.pictures {
+  width: 200px;
+  padding-bottom: 20px;
+}
+
+.card {
+  height: max-content;
+  width: 400px;
+  text-align: center;
+  border: 1px solid black;
+  margin: 20px;
+  background-color: orangered;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100vw;
+  height: max-content;
+  align-items: center;
+  align-content: space-around;
+  background-color: olive;
+}

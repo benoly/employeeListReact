@@ -41,10 +41,10 @@ employeeList = [
     imgurl: "http://67.media.tumblr.com/b077e18f6e5d04e93fb616825fe2ac13/tumblr_n1kx2jVn5g1t06hqzo1_400.jpg",
     DOB: "11/01/1923"
   },{
-    name: "Michael Simon",
+    name: "Michael Symon",
     position: "Office Cook",
     hireDate: "07/06/2010",
-    imgurl: "http://www.bullz-eye.com/television/interviews/2010/images/michael_symon/michael_symon_01.jpg",
+    imgurl: "https://s-media-cache-ak0.pinimg.com/originals/8d/cd/7f/8dcd7f16dfe4b3595f17825d6e7f0820.jpg",
     DOB: "03/12/1976"
   },{
     name: "Michael Scott",
@@ -68,7 +68,7 @@ employeeList = [
     name: "Bob Higgins",
     position: "The Actual Security Guard",
     hireDate: "09/03/2011",
-    imgurl: "http://1.media.collegehumor.cvcdn.com/57/18/0fae99c48dd98c48f6c195d95ba5f13a.jpg",
+    imgurl: "http://www.securityguardcareercenter.com/wp-content/uploads/2016/01/sleeping-security-guard.jpg",
     DOB: "03/25/1966"
   }
 ]
